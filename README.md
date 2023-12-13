@@ -12,6 +12,8 @@ npm run dev
 
 This starts your app in development mode, rebuilding assets on file changes.
 
+![Image 1](interface.png)
+
 ## Deployment
 
 First, build your app for production:
