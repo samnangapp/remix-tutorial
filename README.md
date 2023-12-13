@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# remix-tutorial
-from tutorial remix docs
-=======
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
@@ -40,4 +36,3 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
->>>>>>> f485386 (init tutorial remix)
